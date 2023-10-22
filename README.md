@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hey there 👋 I'm Crystal.
 
-<!--
-**Crystalhqx/Crystalhqx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👩‍💻 About Me</h3>
 
-Here are some ideas to get you started:
+- ✨&nbsp; Passionate about trying new technologies and Cybersecurity
+- 🔭&nbsp; Looking for software developer job opportunities
+- 🌱&nbsp; Learning more about DevOps and System Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3> 🛠️ Tech Stack</h3>
+
+- 💻&nbsp; Java | C | C# | Python | SQL | Go | TypeScript
+- 🌐&nbsp; React | Bootstrap | Spring | Hibernate | Material-UI | HTML/CSS
+- 🧰&nbsp; RabbitMQ | MySQL | JUnit
+- 🔧&nbsp; Linux | Git | AWS | GCP | Spring Cloud | Unity | Android 
+
+<br/>
