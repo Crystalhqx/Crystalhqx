@@ -13,5 +13,3 @@
 - 🌐&nbsp; React | Bootstrap | Spring | Hibernate | Material-UI | HTML/CSS
 - 🧰&nbsp; RabbitMQ | MySQL | JUnit
 - 🔧&nbsp; Linux | Git | AWS | GCP | Spring Cloud | Unity | Android 
-
-<br/>
