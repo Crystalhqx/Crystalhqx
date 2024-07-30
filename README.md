@@ -12,5 +12,5 @@
 - 💻&nbsp; Java | Python | Go | C | SQL | C# | TypeScript | JavaScript | Bash
 - 🌐&nbsp; React | React Native | Spring | Spring Boot | Spring Cloud | Hibernate | Material-UI | Bootstrap | HTML/CSS
 - 🧰&nbsp; RabbitMQ | MySQL | JUnit | Machine Learning
-- 📱&nbsp; iOS | Android
 - 🔧&nbsp; Linux | Git | AWS | GCP | Unity | Docker
+- 📱&nbsp; iOS | Android
